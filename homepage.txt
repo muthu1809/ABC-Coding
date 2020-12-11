@@ -4,7 +4,12 @@ public static void main(String[] args)
 {
 
 // This is my code for pushing
-
+ABC abc = new ABC(); 
+abc.call(); 
 }
 
+public void call()
+{
+
+}
 }
