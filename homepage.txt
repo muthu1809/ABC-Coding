@@ -1,10 +1,6 @@
-class ABC
-{
-public static void main(String[] args)
-{
+<html>
+<head> </head>
+<body>
+</body>
+</html>
 
-// This is my code for pushing
-
-}
-
-}
